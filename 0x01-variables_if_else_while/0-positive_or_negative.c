@@ -6,7 +6,7 @@
 /**
  * Description: the main return either positive or negative or zero values
  */
-int main(void)	
+int main(void)
 {
 	int n;
 
