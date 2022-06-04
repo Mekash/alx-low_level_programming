@@ -3,7 +3,7 @@
 #include <time.h>
 /* more headers goes there */
 /* betty style doc for function main goes there */
-int main(void) /* It does not accept any parameter other than void */
+int main(void) /* main starts the execution and termination of the program */
 {
 	int n;
 
