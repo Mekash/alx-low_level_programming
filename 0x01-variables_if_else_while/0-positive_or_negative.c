@@ -5,7 +5,7 @@
 /* betty style doc for function main goes there */
 /**
  * Description: the main return either positive or negative or zero values
- * /
+ */
 int main(void)	
 {
 	int n;
