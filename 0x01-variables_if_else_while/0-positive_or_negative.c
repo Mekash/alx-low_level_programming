@@ -5,11 +5,10 @@
 
 /* betty style doc for function main goes there */
 
-/*the main return random number including positive, negative, and zero */
 
 int main(void) 
 {
-	int n;
+	int n; /*the main return random number displaying positive, negative and zero*/
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
@@ -22,8 +21,7 @@ int main(void)
 	{
 		printf("%d is negative\n", n);
 	}
-	else if (n == 0) 
-	{	
+	else {	
 		printf("%d is zero\n", n);
 	}
 	return (0);
