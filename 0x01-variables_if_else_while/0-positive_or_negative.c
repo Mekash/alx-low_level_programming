@@ -3,7 +3,7 @@
 #include <time.h>
 /* more headers goes there */
 /* betty style doc for function main goes there */
-int main(void) /* main starts the execution and termination of the program */
+int main(void) /* main - entry point prints the number and whether it is positiv                *  e, negative, or zero. and return: 0. */
 {
 	int n;
 
