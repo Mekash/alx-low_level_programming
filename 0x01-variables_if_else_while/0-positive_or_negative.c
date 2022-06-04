@@ -19,8 +19,8 @@ int main(void) /* the main return random number including positive, negative and
 	{
 		printf("%d is negative\n", n);
 	}
-	else (n == 0)
-	{
+	else 
+	{	
 		printf("%d is zero\n", n);
 	}
 	return (0);
