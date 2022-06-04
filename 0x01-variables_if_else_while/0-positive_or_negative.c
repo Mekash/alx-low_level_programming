@@ -3,8 +3,12 @@
 #include <time.h>
 /* more headers goes there */
 /* betty style doc for function main goes there */
-int main(void) /* main - prints the number and whether it is positive,
-		* negative, or zero */
+
+
+int main(void) /*
+		* main - prints the number and whether it is positive,
+		* negative, or zero
+		* /
 {
 	int n;
 
