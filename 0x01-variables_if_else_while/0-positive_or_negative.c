@@ -3,10 +3,7 @@
 #include <time.h>
 /* more headers goes there */
 /* betty style doc for function main goes there */
-/**
- * Description: the main return either positive or negative or zero values
- */
-int main(void)
+int main(void) /* It does not accept any parameter other than void */
 {
 	int n;
 
