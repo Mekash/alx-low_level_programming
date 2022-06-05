@@ -7,7 +7,7 @@
  * main - prints the number and whether it is positive,
  * negative, or zero
  */
-int main(void) /*main prints number whether positive, negativ, or zero */ 
+int main(void) /*main prints number whether positive, negativ, or zero */
 {
 	int n;
 
