@@ -22,5 +22,5 @@ int main(void)
 	if (n <  6 ){
 		printf("last digit of %d is %d less than 6 and not 0\n", n, lastD);
 	}while (lastD != 0)
-	return ();
+	return 0;
 }
