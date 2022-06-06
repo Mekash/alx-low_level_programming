@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main-print Lowercase and in new line Uppercase
+ * main-prints the alphabet in lowercase, and then in uppercase
  *
- * return Always(Success)
+ * return Always (Success)
  */
 int main(void)
 {
@@ -16,7 +16,7 @@ int main(void)
 
 	putchar('\n');
 
-	for (c = 'A'; c <= 'z'; c++)
+	for (c = 'A'; c <= 'Z'; c++)
 	{
 	putchar(c);
 	}
