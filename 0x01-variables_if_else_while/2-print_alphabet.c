@@ -3,7 +3,7 @@
 /**
  * main-Prints Lowercase Alphabet
  *
- * Return: Always (Success)
+ * Return: Always(Success)
  */
 int main(void)
 {
@@ -11,7 +11,6 @@ int main(void)
 
 	for (c = 'a'; c <= 'z'; c++)
 		putchar(c);
-
-	putchar(c);
+	
+	putchar('\n');
 	return (0);
-}
