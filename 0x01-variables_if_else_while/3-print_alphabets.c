@@ -4,6 +4,7 @@
  * main-prints the alphabet in lowercase, and then in uppercase
  *
  * return: Always (Success)
+ *
  */
 int main(void)
 {
