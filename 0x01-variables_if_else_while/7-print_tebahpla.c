@@ -11,9 +11,9 @@ int main(void)
 
 	for (c = 'z'; c <= 'a'; c--)
 	{
-		putchar(c;
+		putchar(c);
 	}
 
-	putchar(c;
-	return (0;
+	putchar(c);
+	return (0);
 }
