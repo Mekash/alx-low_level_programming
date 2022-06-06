@@ -3,7 +3,7 @@
 /**
  * main-prints the alphabet in lowercase, and then in uppercase
  *
- * return Always (Success)
+ * return: Always (Success)
  */
 int main(void)
 {
@@ -20,6 +20,6 @@ int main(void)
 	}
 
 	putchar('\n');	
-	
+
 	return (0);
 }
