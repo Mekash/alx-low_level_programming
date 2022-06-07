@@ -14,7 +14,7 @@ int main(void)
 		putchar(0);
 	}
 
-	putchar(n%10 + '0');
+	putchar(n%9 + '0');
 
 	return (0);
 }
