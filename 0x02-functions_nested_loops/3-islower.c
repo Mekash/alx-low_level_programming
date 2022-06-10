@@ -1,12 +1,12 @@
 #include "main.h"
 /**
-  * _islower a function check lowercase alphabet of english
-  * Return: if 1 the alphabet is lowercase
-  * Return: if 0 otherwise
+  * _islower return whether the alphabet is lowercase or not
+  *
+  * Return: 1 if the alphabe is 1 or 0 otherwise
   */
 int _islower(int c)
 {
-	if (c >= 'a' && c <= 'z' )
+	if (c >= 'a' && c <= 'z')
 		return (1);
 	else
 		return (0);
