@@ -1,23 +1,21 @@
-#include <stdio.h>
-#include <main.h>
-
-/*alx-low_level_programming
- * 
- *main - Pprogram that prints _putchar
+#include "main.h"
+/**
+ * main - prints Holberton
  *
- * Return: Always (Seccess)
+ * Return: Always 0 (Success)
  */
+
 int main(void)
 {
-	char *_putchar = "main",
-
-	while(*_putchar)
-	{
-		_putchar(_putchar);
-		_putchar++;
-
-	}		
-	putchar('\n');
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
 
 	return (0);
 }
