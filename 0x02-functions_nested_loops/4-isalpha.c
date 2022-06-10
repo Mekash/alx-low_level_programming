@@ -1,8 +1,8 @@
 #include "main.h"
 /**
   * _isalpha - test the letter is alphabet
-  * @c: test the alphabet(lowercase and uppercase), 
-  * Return: 1 if the letter alphhabet()
+  * @c: test the alphabet(lowercase and uppercase) 
+  * Return: 1 if the letter alphhabet(
   * Lowercase or upper case), or 0 otherwise
   */
 int _isalpha(int c)
