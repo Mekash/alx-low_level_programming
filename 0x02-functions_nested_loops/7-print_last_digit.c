@@ -4,8 +4,10 @@
   * @nld: last digit will be find
   * Return: The last digit
   */
-int print_last_digit(int nld)
+int print_last_digit(int)
 {
+	int nld;
+
 	if (nld < 0)
 	{
 		nld = nld * -1;
