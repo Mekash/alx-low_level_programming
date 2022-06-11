@@ -5,7 +5,7 @@
  * / 10 allow second dgit to rotate
  * fot llop breaks before passing 24:00
  * Return: 24 hours line by line
- */ 
+ */
 void jack_bauer(void)
 {
 	int h, m;
