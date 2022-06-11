@@ -4,10 +4,10 @@
   * @n: last digit will be find
   * Return: The last digit
   */
-int print_last_digit(int n)
+int print_last_digit(int nld)
 {
-	if (n < 0)
-		n = n * -1;
-	_putchar((n % 10) + '0');
-	return (n % 10); 
+	if (nld < 0)
+		nld = nld * -1;
+	_putchar((nld % 10) + '0');
+	return (nld % 10); 
 }
