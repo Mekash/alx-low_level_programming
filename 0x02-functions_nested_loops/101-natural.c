@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- *
- *
+ * main - compute the sum of multiles of 
+ * 3 and 5 less than 1024
+ *Return: Nothing
  */
 int main(void)
 {
@@ -13,5 +14,5 @@ int main(void)
 			result += i;
 		}
 	printf("%d\n", result);
-	return 0;
+	return (0);
 }
