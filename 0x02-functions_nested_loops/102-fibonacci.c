@@ -7,14 +7,14 @@ int main(void)
 {
 	unsigned long count, i, j, k;
 
-	for (i = 0; i < 50; i++)
+	for (count = 0; count < 50; count++)
 	{
 		k = i + j;
 		i = j;
 		j = k;
 		printf("%lu", k);
 		if (count == 49)
-			putchar('\n');
+			putchar("\n");
 		else
 		{
 			printf(", ");
