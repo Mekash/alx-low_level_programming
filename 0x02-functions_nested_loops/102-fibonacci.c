@@ -7,7 +7,7 @@ int main(void)
 {
 	unsigned long count, i, j, k;
 
-	for (i = 0; i < 0; i++)
+	for (i = 0; i < 50; i++)
 	{
 		k = i + j;
 		i = j;
