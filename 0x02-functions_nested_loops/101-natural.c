@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - compute the sum of multiles of 
+ * main - compute the sum of multiles of
  * 3 and 5 less than 1024
  *Return: Nothing
  */
